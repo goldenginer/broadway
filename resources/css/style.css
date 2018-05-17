@@ -60,6 +60,7 @@ img {
 header {
   background-image: url("../images/the-flatiron-building.png");
   background-position: center;
+  background-size: cover;
 }
 
 footer {
